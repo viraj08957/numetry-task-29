@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  vertical-align: center;
+}
+.box_style{
+  text-decoration:line-through;
+  background-color: lightgreen;
+  color: #fff;
+}
+.date_style{
+  border: 4px solid yellow;
+}
+.item_style{
+  margin-top: 10px;
+}
